@@ -4,24 +4,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.ytname = "YT:  ᴀɴsʜɪғ xᴇʀ" //ur yt chanel name
+global.socialm = "GitHub: Rozarioxero" //ur github or insta name
+global.location = "India, kerala, Palakkad" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = ['917029257330'] //ur owner number, dont add more than one
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
-global.websitex = "https://youtube.com/@dreamguydeepak"
+global.botname = ' ᴀɴsʜɪғ xᴇʀ-Bot' //ur bot name
+global.ownernumber = ['916282524515'] //ur owner number, dont add more than one
+global.ownername = '🦄Dream Guy  ᴀɴsʜɪғ xᴇʀ' //ur owner name
+global.websitex = "https://youtube.com/@ ᴀɴsʜɪғ xᴇʀ"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🦄'
 global.wm = "Deepak Bot Inc."
-global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot9' //script link
-global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "917029257330@s.whatsapp.net"
+global.botscript = 'https://github.com/Rozarioxero/Zenitsu-Bot9' //script link
+global.packname = " ᴀɴsʜɪғ xᴇʀ-Bot"
+global.author = "🦄Dream Guy  ᴀɴsʜɪғ xᴇʀ"
+global.creator = "916282524515@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330"] // Premium User
+global.premium = ["916282524515"] // Premium User
 
 //channel id
 global.xchannel = {
